@@ -1,0 +1,9 @@
+h3 {
+ width: 200pt;
+ height:4cm;
+ border-color: #C0C0C0;
+ border-style: dotted;
+ background : rgb(0 0 255);
+ font-size:20px;
+ margin-left: 100px;
+}
